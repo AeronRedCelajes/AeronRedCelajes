@@ -39,7 +39,6 @@ November 23, 2022
 [<ins>**Oracle Cloud Infrastructure 2022 Certified Foundations Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92F02056C20DC48A686FBCE410D7C568D2B47CBF7ADCFADCEFA1651F0B0CA3BB)
 <br>
 Oracle Corporation 
-<font color="#c5f015"> Some green text </font>
 <br>
 November 16, 2022
 <br>
