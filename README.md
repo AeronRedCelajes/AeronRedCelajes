@@ -22,7 +22,7 @@ BS Computer Science
 
 ## Certification
 
-<img src="https://github.com/AeronRedCelajes/myportfolio/assets/142370807/d935d353-fe7e-45c2-951b-08cda9462ba6" width=600 height=450>
+<img src="https://github.com/AeronRedCelajes/AeronRedCelajes/assets/142370807/d2700b09-cccf-4ada-a218-eb4f085c18b8" width=600 height=450>
 
 [<ins>**Oracle Cloud Data Management 2022 Foundations Certified Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8FD3D34EF2E4BAE638028D5839CF292AB0E7FFD07FDF19BE5B2BC249F827BBD)
 <br>
@@ -31,7 +31,7 @@ Oracle Corporation
 November 23, 2022
 <br>
 <hr>
-<img src="https://github.com/AeronRedCelajes/myportfolio/assets/142370807/299c6d82-553f-4fd0-afcd-48dacb5c30a0" width=600 height=450>
+<img src="https://github.com/AeronRedCelajes/AeronRedCelajes/assets/142370807/30f78baa-39ce-4ee3-91ca-7ba8894d0c4e" width=600 height=450>
 
 [<ins>**Oracle Cloud Infrastructure 2022 Certified Foundations Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92F02056C20DC48A686FBCE410D7C568D2B47CBF7ADCFADCEFA1651F0B0CA3BB)
 <br>
@@ -41,7 +41,7 @@ Oracle Corporation
 November 16, 2022
 <br>
 <hr>
-<img src="https://github.com/AeronRedCelajes/myportfolio/assets/142370807/8ccbc438-7c4e-4632-99ec-d12b9c83715f" width=600 height=400>
+<img src="https://github.com/AeronRedCelajes/AeronRedCelajes/assets/142370807/20d79290-cfc7-4c42-8646-f122a1f657fe" width=600 height=400>
 
 [<ins>**SQL and Relational Databases 101**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
 <br>
@@ -50,7 +50,7 @@ IBM Cognitive Class
 October 30, 2022
 <br>
 <hr>
-<img src="https://github.com/AeronRedCelajes/myportfolio/assets/142370807/6370ff81-ef79-41f7-87a4-7953614d7c9c" width=600 height=800>
+<img src="https://github.com/AeronRedCelajes/AeronRedCelajes/assets/142370807/7369b066-f693-4af3-9e20-61565416ed00" width=600 height=800>
 
 [<ins>**SPEECH ARTS CONTEST 2022**</ins>](https://drive.google.com/file/d/1hoaMElAhtsRGzpTVEEJzEcO8UHNZK0iy/view?usp=sharing)
 <br>
