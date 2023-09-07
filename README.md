@@ -50,13 +50,4 @@ November 16, 2022
 IBM Cognitive Class
 <br>
 October 30, 2022
-<br>
-<hr>
-<img src="https://github.com/AeronRedCelajes/AeronRedCelajes/assets/142370807/7369b066-f693-4af3-9e20-61565416ed00" width=600 height=800>
-
-[<ins>**SPEECH ARTS CONTEST 2022**</ins>](https://drive.google.com/file/d/1hoaMElAhtsRGzpTVEEJzEcO8UHNZK0iy/view?usp=sharing)
-<br>
-SPEECH ARTS CONTEST 2022 NEW ERA UNIVERSITY
-<br>
-April 01, 2022 
 </div>
