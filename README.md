@@ -22,7 +22,6 @@ BS Computer Science
 - 📍 Quezon City, Metro Manila
 
 <br>
-<br>
 <h2 align="center">Certification 📜</h2>
 
 <div align="center"> 
