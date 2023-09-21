@@ -26,22 +26,22 @@ BS Computer Science
   
 [<ins>**Oracle Cloud Data Management 2022 Foundations Certified Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8FD3D34EF2E4BAE638028D5839CF292AB0E7FFD07FDF19BE5B2BC249F827BBD)
 <br>
-Oracle Corporation
+<b>Oracle Corporation</b>
 <br>
-November 23, 2022
+<b>November 23, 2022</b>
 <br>
 <hr>
 
 [<ins>**Oracle Cloud Infrastructure 2022 Certified Foundations Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92F02056C20DC48A686FBCE410D7C568D2B47CBF7ADCFADCEFA1651F0B0CA3BB)
 <br>
-Oracle Corporation 
+<b>Oracle Corporation</b> 
 <br>
-November 16, 2022
+<b>November 16, 2022<b/>
 <br>
 <hr>
 
 [<ins>**SQL and Relational Databases 101**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
 <br>
-IBM Cognitive Class
+<b>IBM Cognitive Class</b>
 <br>
-October 30, 2022
+<b>October 30, 2022</b>
