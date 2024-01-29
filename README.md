@@ -70,7 +70,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**SPEECH ART CONTEST 2022**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
+[<ins>**SPEECH ART CONTEST 2022**</ins>](https://drive.google.com/file/d/1_Pnbw035c794JBq_vKdsOXk0IZl11jFn/view?usp=sharing)
 <br>
 <b>IBM Cognitive Class</b>
 <br>
