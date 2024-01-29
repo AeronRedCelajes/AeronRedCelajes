@@ -24,7 +24,7 @@ BS Computer Science
 
 [<ins>**CISCO Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
 <br>
-<b>Oracle Corporation</b>
+<b>CISCO</b>
 <br>
 <b>October 15, 2023</b>
 <br>
@@ -32,7 +32,7 @@ BS Computer Science
 
 [<ins>**CISCO Introduction to Data Science**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
 <br>
-<b>Oracle Corporation</b>
+<b>CISCO</b>
 <br>
 <b>October 05, 2023</b>
 <br>
@@ -40,7 +40,7 @@ BS Computer Science
 
 [<ins>**Kaggle Certificate Of Completion "Intro To Programming"**</ins>](https://drive.google.com/file/d/127fjA-uKCApHkToV4ZNQ642srzgo5KrB/view?usp=sharing)
 <br>
-<b>Oracle Corporation</b>
+<b>Kaggle</b>
 <br>
 <b>November 09, 2023</b>
 <br>
@@ -72,6 +72,6 @@ BS Computer Science
 
 [<ins>**SPEECH ART CONTEST 2022**</ins>](https://drive.google.com/file/d/1_Pnbw035c794JBq_vKdsOXk0IZl11jFn/view?usp=sharing)
 <br>
-<b>IBM Cognitive Class</b>
+<b>New Era University</b>
 <br>
 <b>April 01, 2022</b>
