@@ -22,7 +22,7 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
-[<ins>**CISCO Data Analytics Essentials**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
+[<ins>**CISCO Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
 <br>
 <b>Oracle Corporation</b>
 <br>
@@ -30,7 +30,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**CISCO Introduction to Data Science**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
+[<ins>**CISCO Introduction to Data Science**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
 <br>
 <b>Oracle Corporation</b>
 <br>
