@@ -38,7 +38,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**Kaggle Certificate Of Completion "Intro To Programming"**</ins>](https://drive.google.com/drive/u/1/folders/1sJSS2HvlFZFdfxx_0-bt4KssDJc7KAzZ)
+[<ins>**Kaggle Certificate Of Completion "Intro To Programming"**</ins>](https://drive.google.com/file/d/127fjA-uKCApHkToV4ZNQ642srzgo5KrB/view?usp=sharing)
 <br>
 <b>Oracle Corporation</b>
 <br>
