@@ -22,6 +22,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Intro To Programming**</ins>](https://drive.google.com/file/d/127fjA-uKCApHkToV4ZNQ642srzgo5KrB/view?usp=sharing)
+<br>
+<b>Kaggle</b>
+<br>
+<b>November 09, 2023</b>
+<br>
+<hr>
+
 [<ins>**Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
 <br>
 <b>CISCO</b>
@@ -35,14 +43,6 @@ BS Computer Science
 <b>CISCO</b>
 <br>
 <b>October 05, 2023</b>
-<br>
-<hr>
-
-[<ins>**Intro To Programming**</ins>](https://drive.google.com/file/d/127fjA-uKCApHkToV4ZNQ642srzgo5KrB/view?usp=sharing)
-<br>
-<b>Kaggle</b>
-<br>
-<b>November 09, 2023</b>
 <br>
 <hr>
 
