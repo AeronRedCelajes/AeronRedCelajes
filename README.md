@@ -21,7 +21,31 @@ BS Computer Science
 
 <br>
 <h2>Certification 📜</h2>
-  
+
+[<ins>**CISCO Data Analytics Essentials**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
+<br>
+<b>Oracle Corporation</b>
+<br>
+<b>October 15, 2023</b>
+<br>
+<hr>
+
+[<ins>**CISCO Introduction to Data Science**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
+<br>
+<b>Oracle Corporation</b>
+<br>
+<b>October 05, 2023</b>
+<br>
+<hr>
+
+[<ins>**Kaggle Certificate Of Completion "Intro To Programming"**</ins>](https://drive.google.com/drive/u/1/folders/1sJSS2HvlFZFdfxx_0-bt4KssDJc7KAzZ)
+<br>
+<b>Oracle Corporation</b>
+<br>
+<b>November 09, 2023</b>
+<br>
+<hr>
+
 [<ins>**Oracle Cloud Data Management 2022 Foundations Certified Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8FD3D34EF2E4BAE638028D5839CF292AB0E7FFD07FDF19BE5B2BC249F827BBD)
 <br>
 <b>Oracle Corporation</b>
@@ -43,3 +67,11 @@ BS Computer Science
 <b>IBM Cognitive Class</b>
 <br>
 <b>October 30, 2022</b>
+<br>
+<hr>
+
+[<ins>**SPEECH ART CONTEST 2022**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
+<br>
+<b>IBM Cognitive Class</b>
+<br>
+<b>April 01, 2022</b>
