@@ -8,70 +8,188 @@
 BS Computer Science
 2021 - Present
 
-## Languages and Tools 🖥️
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
 ## Contact Me 📞
 
 - 📱 09559352362
 
-- 📧 aeron.celajes@neu.edu.ph
+- 📧 aeronredcelajes@gmail.com
 
 - 📍 Quezon City, Metro Manila
 
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Artificial Intelligence Fundamentals**</ins>](https://www.credly.com/badges/33593e36-53b5-4857-9902-1b362fe435bd/public_url)
+<br>
+<b>- CISCO</b>
+<br>
+<b>- June 28, 2024</b>
+<br>
+<hr>
+
 [<ins>**Intro To Programming**</ins>](https://drive.google.com/file/d/127fjA-uKCApHkToV4ZNQ642srzgo5KrB/view?usp=sharing)
 <br>
-<b>Kaggle</b>
+<b>- Kaggle</b>
 <br>
-<b>November 09, 2023</b>
+<b>- November 09, 2023</b>
 <br>
 <hr>
 
 [<ins>**Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
 <br>
-<b>CISCO</b>
+<b>- CISCO</b>
 <br>
-<b>October 15, 2023</b>
+<b>- October 15, 2023</b>
 <br>
 <hr>
 
 [<ins>**Introduction to Data Science**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
 <br>
-<b>CISCO</b>
+<b>- CISCO</b>
 <br>
-<b>October 05, 2023</b>
+<b>- October 05, 2023</b>
 <br>
 <hr>
 
 [<ins>**Oracle Cloud Data Management 2022 Foundations Certified Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8FD3D34EF2E4BAE638028D5839CF292AB0E7FFD07FDF19BE5B2BC249F827BBD)
 <br>
-<b>Oracle Corporation</b>
+<b>- Oracle Corporation</b>
 <br>
-<b>November 23, 2022</b>
+<b>- November 23, 2022</b>
 <br>
 <hr>
 
 [<ins>**Oracle Cloud Infrastructure 2022 Certified Foundations Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92F02056C20DC48A686FBCE410D7C568D2B47CBF7ADCFADCEFA1651F0B0CA3BB)
 <br>
-<b>Oracle Corporation</b> 
+<b>- Oracle Corporation</b> 
 <br>
-<b>November 16, 2022<b/>
+<b>- November 16, 2022<b/>
 <br>
 <hr>
 
 [<ins>**SQL and Relational Databases 101**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
 <br>
-<b>IBM Cognitive Class</b>
+<b>- IBM Cognitive Class</b>
 <br>
-<b>October 30, 2022</b>
+<b>- October 30, 2022</b>
 <br>
 <hr>
 
 [<ins>**SPEECH ART CONTEST 2022**</ins>](https://drive.google.com/file/d/1_Pnbw035c794JBq_vKdsOXk0IZl11jFn/view?usp=sharing)
 <br>
-<b>New Era University</b>
+<b>- New Era University</b>
 <br>
-<b>April 01, 2022</b>
+<b>- April 01, 2022</b>
+
+<br>
+<h2>Tech Achievement 🛠️</h2>
+
+<h3>PowerBi Projects 📊</h3>
+
+[<ins>**Prof Elec 4 Course Report**</ins>](https://app.powerbi.com/view?r=eyJrIjoiZDE0ZTVmMjEtODU3YS00MGI3LTkwNDMtNmJiYTczODVhYzljIiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D)
+<br>
+<b>- PowerBi</b> 
+<br>
+<b>- July 11, 2024<b/>
+<br>
+<hr>
+
+[<ins>**Snack Report Using DAX**</ins>](https://app.powerbi.com/view?r=eyJrIjoiMmUxMDJhZjktYTVmZi00OWI0LWJkM2UtZTU0ODg4MGE4ZjVkIiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D)
+<br>
+<b>- PowerBi</b> 
+<br>
+<b>- July 08, 2024<b/>
+<br>
+<hr>
+
+[<ins>**Soda Report 2022**</ins>](https://app.powerbi.com/view?r=eyJrIjoiZmI1MTQxMzQtYTRmOC00MzUyLThiMzUtYmFhNGI2NWM1M2I1IiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D)
+<br>
+<b>- PowerBi</b> 
+<br>
+<b>- July 01, 2024<b/>
+<br>
+<br>
+
+<h3>SoftEng Design Patterns 👨🏻‍💻</h3>
+
+[<ins>**Builder Pattern**</ins>](https://github.com/AeronRedCelajes/builderPattern)
+<br>
+<b>- Design Pattern</b> 
+<br>
+<hr>
+
+[<ins>**Decorator Pattern**</ins>](https://github.com/AeronRedCelajes/decoratorPattern)
+<br>
+<b>- Design Pattern</b> 
+<br>
+<hr>
+
+[<ins>**Observer Pattern**</ins>](https://github.com/AeronRedCelajes/observerPattern)
+<br>
+<b>- Design Pattern</b> 
+<br>
+<hr>
+
+[<ins>**Singleton Pattern**</ins>](https://github.com/AeronRedCelajes/singletonPattern)
+<br>
+<b>- Design Pattern</b> 
+<br>
+<hr>
+
+[<ins>**Visitor Pattern**</ins>](https://github.com/AeronRedCelajes/visitorPattern2)
+<br>
+<b>- Design Pattern</b> 
+<br>
+<br>
+
+<h3>App Development ⚙️</h3>
+
+[<ins>**EaseExamGen**</ins>](http://easeexamchatbot.pythonanywhere.com)
+<br>
+[<ins>**EaseExamDetails**</ins>](https://github.com/AeronRedCelajes/EaseExamGen)
+<br>
+<b>- Application</b> 
+<br>
+
+<br>
+<h2>Skill Set 💡</h2>
+
+<h3>Data Visualization Tools 🖥️</h3>
+<ul>
+  <li>PowerBI Desktop</li>
+  <li>Tableau Public</li>
+</ul>
+
+<hr>
+
+<h3>Programming Languages 🖥️</h3>
+<ul>
+  <li>Java</li>
+  <li>Html/CSS</li>
+  <li>C Sharp</li>
+  <li>Python</li>
+  <li>MySQL</li>
+</ul>
+
+<hr>
+
+<h3>DBMS 🛢️</h3>
+<ul>
+  <li>DB2</li>
+</ul>
+
+<hr>
+
+<h3>Dev Tools 🔧</h3>
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Unity</li>
+  <li>Eclipse</li>
+  <li>JasperSoft Studio</li>
+  <li>IntelliJ Idea</li>
+  <li>Cisco Packet Tracer</li>
+  <li>Aseprite</li>
+  <li>LucidChart</li>
+  <li>Adobe Photoshop</li>
+  <li>Adobe Premiere Pro</li>
+</ul>
