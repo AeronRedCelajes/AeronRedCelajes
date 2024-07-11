@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**PWNEU CTF**</ins>](https://drive.google.com/file/d/1mB8zTTKMLoflr3yoGm5ZdE297OBffLu8/view?usp=sharing)
+<br>
+<b>- NEU CICS</b>
+<br>
+<b>- May 15, 2024</b>
+<br>
+<hr>
+
 [<ins>**Artificial Intelligence Fundamentals**</ins>](https://www.credly.com/badges/33593e36-53b5-4857-9902-1b362fe435bd/public_url)
 <br>
 <b>- CISCO</b>
