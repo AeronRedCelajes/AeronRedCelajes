@@ -154,7 +154,7 @@ BS Computer Science
 <br>
 <h2>Skill Set 💡</h2>
 
-<h3>Data Visualization Tools 🖥️</h3>
+<h3>Data Visualization Tools 📈</h3>
 <ul>
   <li>PowerBI Desktop</li>
   <li>Tableau Public</li>
