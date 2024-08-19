@@ -27,7 +27,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**PWNEU CTF**</ins>](https://drive.google.com/file/d/1mB8zTTKMLoflr3yoGm5ZdE297OBffLu8/view?usp=sharing)
+[<ins>**PWNEU CTF**</ins>](https://drive.google.com/file/d/1oN7fT5SDEjH6qtPgcM-cxqQoS1Mu_kX5/view?usp=sharing)
 <br>
 <b>- NEU CICS</b>
 <br>
