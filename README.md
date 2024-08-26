@@ -19,7 +19,7 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
-[<ins>**Artificial Intelligence Fundamentals**</ins>](https://www.credly.com/badges/33593e36-53b5-4857-9902-1b362fe435bd/public_url)
+[<ins>**AI Fundamentals with IBM Skills Build**</ins>](https://drive.google.com/file/d/1zi5v-EjZWa_qyGeQpc4wNa-nWNn5KD8m/view?usp=sharing)
 <br>
 <b>- CISCO</b>
 <br>
@@ -43,7 +43,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
+[<ins>**Introduction to Data Science**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
 <br>
 <b>- CISCO</b>
 <br>
@@ -51,7 +51,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**Introduction to Data Science**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
+[<ins>**Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
 <br>
 <b>- CISCO</b>
 <br>
