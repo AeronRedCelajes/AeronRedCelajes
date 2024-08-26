@@ -23,7 +23,7 @@ BS Computer Science
 <br>
 <b>- CISCO</b>
 <br>
-<b>- June 28, 2024</b>
+<b>- July 13, 2024</b>
 <br>
 <hr>
 
@@ -43,7 +43,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**Introduction to Data Science**</ins>](https://www.credly.com/badges/e0f39538-dd6d-42c9-ad8d-ccde7a12ff3d/public_url)
+[<ins>**Introduction to Data Science**</ins>](https://drive.google.com/file/d/1d-jE96c0It1LGV0uRDSdzbFf_cPjs8u9/view?usp=sharing)
 <br>
 <b>- CISCO</b>
 <br>
@@ -51,7 +51,7 @@ BS Computer Science
 <br>
 <hr>
 
-[<ins>**Data Analytics Essentials**</ins>](https://www.credly.com/badges/fc777b52-f96b-4ac2-a3c6-8a59bcb0d78d/public_url)
+[<ins>**Data Analytics Essentials**</ins>](https://drive.google.com/file/d/1BL_0-0sZOCQend5WVU8NcziYWM-eMU5t/view?usp=sharing)
 <br>
 <b>- CISCO</b>
 <br>
