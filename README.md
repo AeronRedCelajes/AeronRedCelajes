@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Python for Data Science**</ins>](https://www.mygreatlearning.com/certificate/TQGAMASI)
+<br>
+<b>- Great Learning</b>
+<br>
+<b>- Septmeber 07, 2024</b>
+<br>
+<hr>
+
 [<ins>**AI Fundamentals with IBM Skills Build**</ins>](https://drive.google.com/file/d/1zi5v-EjZWa_qyGeQpc4wNa-nWNn5KD8m/view?usp=sharing)
 <br>
 <b>- CISCO</b>
