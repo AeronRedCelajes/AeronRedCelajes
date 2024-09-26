@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Front End Development - HTML**</ins>](https://www.mygreatlearning.com/certificate/VPALWXWC)
+<br>
+<b>- Great Learning</b>
+<br>
+<b>- Septmeber 27, 2024</b>
+<br>
+<hr>
+
 [<ins>**Python for Data Science**</ins>](https://www.mygreatlearning.com/certificate/TQGAMASI)
 <br>
 <b>- Great Learning</b>
