@@ -117,7 +117,7 @@ BS Computer Science
 
 [<ins>**SQL and Relational Databases 101**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
 <br>
-<b>- IBM Cognitive Class</b>
+<b>- Cognitive Class</b>
 <br>
 <b>- October 30, 2022</b>
 <br>
