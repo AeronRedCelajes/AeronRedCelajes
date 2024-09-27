@@ -19,6 +19,22 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**UI/UX for Beginners**</ins>](https://www.mygreatlearning.com/certificate/ESCDWWPS)
+<br>
+<b>- Great Learning</b>
+<br>
+<b>- Septmeber 27, 2024</b>
+<br>
+<hr>
+
+[<ins>**Introduction to Neural Network**</ins>](https://www.mygreatlearning.com/certificate/EITTSTPV)
+<br>
+<b>- Great Learning</b>
+<br>
+<b>- Septmeber 27, 2024</b>
+<br>
+<hr>
+
 [<ins>**Front End Development - CSS**</ins>](https://www.mygreatlearning.com/certificate/FZVHYDCA)
 <br>
 <b>- Great Learning</b>
