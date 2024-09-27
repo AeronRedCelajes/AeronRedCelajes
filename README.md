@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Introduction to JavaScript**</ins>](https://www.mygreatlearning.com/certificate/KPWWCVHA)
+<br>
+<b>- Great Learning</b>
+<br>
+<b>- Septmeber 28, 2024</b>
+<br>
+<hr>
+
 [<ins>**UI/UX for Beginners**</ins>](https://www.mygreatlearning.com/certificate/ESCDWWPS)
 <br>
 <b>- Great Learning</b>
