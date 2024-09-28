@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Software Development Lifecycle Fundamentals**</ins>](https://www.mygreatlearning.com/certificate/QGJBEIQI)
+<br>
+<b>- Great Learning</b>
+<br>
+<b>- Septmeber 29, 2024</b>
+<br>
+<hr>
+
 [<ins>**PHP for Beginners**</ins>](https://www.mygreatlearning.com/certificate/INXZOHDD)
 <br>
 <b>- Great Learning</b>
