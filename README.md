@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Responsive Web Design**</ins>](https://www.freecodecamp.org/certification/AeroRed/responsive-web-design)
+<br>
+<b>- freeCodeCamp</b>
+<br>
+<b>- Septmeber 29, 2024</b>
+<br>
+<hr>
+
 [<ins>**Software Development Lifecycle Fundamentals**</ins>](https://www.mygreatlearning.com/certificate/QGJBEIQI)
 <br>
 <b>- Great Learning</b>
