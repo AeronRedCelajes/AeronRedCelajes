@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Career Essentials in Generative AI by Microsoft and LinkedIn**</ins>](https://www.linkedin.com/learning/certificates/ad2b1c32ab36d40641b702b94782984ee7310d2f007c8f3857e40be9be5bee5e)
+<br>
+<b>- Microsoft and LinkedIn</b>
+<br>
+<b>- Septmeber 29, 2024</b>
+<br>
+<hr>
+
 [<ins>**Project Management**</ins>](https://www.mygreatlearning.com/certificate/UVSTKSPO)
 <br>
 <b>- Great Learning</b>
