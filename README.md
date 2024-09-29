@@ -19,6 +19,14 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Introduction to Generative AI**</ins>](https://www.cloudskillsboost.google/public_profiles/9b90332a-7b78-4931-a168-caa5a25cb5c2/badges/11761675)
+<br>
+<b>- Google Cloud Skills Boost</b>
+<br>
+<b>- Septmeber 29, 2024</b>
+<br>
+<hr>
+
 [<ins>**Responsive Web Design**</ins>](https://www.freecodecamp.org/certification/AeroRed/responsive-web-design)
 <br>
 <b>- freeCodeCamp</b>
