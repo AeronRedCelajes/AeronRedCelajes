@@ -19,11 +19,19 @@ BS Computer Science
 <br>
 <h2>Certification 📜</h2>
 
+[<ins>**Introduction to Figma**</ins>](https://simpli-web.app.link/e/2FYqbWnZkNb)
+<br>
+<b>- Simplilearn</b>
+<br>
+<b>- October 01, 2024</b>
+<br>
+<hr>
+
 [<ins>**Career Essentials in Generative AI by Microsoft and LinkedIn**</ins>](https://www.linkedin.com/learning/certificates/ad2b1c32ab36d40641b702b94782984ee7310d2f007c8f3857e40be9be5bee5e?trk=share_certificate)
 <br>
 <b>- Microsoft and LinkedIn</b>
 <br>
-<b>- Septmeber 29, 2024</b>
+<b>- September 29, 2024</b>
 <br>
 <hr>
 
@@ -31,7 +39,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 29, 2024</b>
+<b>- September 29, 2024</b>
 <br>
 <hr>
 
@@ -39,7 +47,7 @@ BS Computer Science
 <br>
 <b>- Google Cloud Skills Boost</b>
 <br>
-<b>- Septmeber 29, 2024</b>
+<b>- September 29, 2024</b>
 <br>
 <hr>
 
@@ -47,7 +55,7 @@ BS Computer Science
 <br>
 <b>- freeCodeCamp</b>
 <br>
-<b>- Septmeber 29, 2024</b>
+<b>- September 29, 2024</b>
 <br>
 <hr>
 
@@ -55,7 +63,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 29, 2024</b>
+<b>- September 29, 2024</b>
 <br>
 <hr>
 
@@ -63,7 +71,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 28, 2024</b>
+<b>- September 28, 2024</b>
 <br>
 <hr>
 
@@ -71,7 +79,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 28, 2024</b>
+<b>- September 28, 2024</b>
 <br>
 <hr>
 
@@ -79,7 +87,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 27, 2024</b>
+<b>- September 27, 2024</b>
 <br>
 <hr>
 
@@ -87,7 +95,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 27, 2024</b>
+<b>- September 27, 2024</b>
 <br>
 <hr>
 
@@ -95,7 +103,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 27, 2024</b>
+<b>- September 27, 2024</b>
 <br>
 <hr>
 
@@ -103,7 +111,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 27, 2024</b>
+<b>- September 27, 2024</b>
 <br>
 <hr>
 
@@ -111,7 +119,7 @@ BS Computer Science
 <br>
 <b>- Great Learning</b>
 <br>
-<b>- Septmeber 07, 2024</b>
+<b>- September 07, 2024</b>
 <br>
 <hr>
 
