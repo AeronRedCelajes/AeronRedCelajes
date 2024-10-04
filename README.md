@@ -262,13 +262,25 @@ BS Computer Science
 <br>
 <b>- Application</b> 
 <br>
+<b>- May 2024<b/>
+<br>
+<br>
 
 [<ins>**EZPC**</ins>](http://ez-peasy.free.nf)
 <br>
-<b>- E-Commerce</b> 
+<b>- E-commerce</b> 
+<br>
+<b>- May 2024<b/>
 <br>
 
+[<ins>**Linked List GUI Project**</ins>](https://github.com/AeronRedCelajes/GUI_LinkedList)
 <br>
+<b>- Application</b> 
+<br>
+<b>- May 2022<b/>
+<br>
+<br>
+
 <h2>Skill Set 💡</h2>
 
 <h3>Data Visualization Tools 📈</h3>
