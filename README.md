@@ -16,7 +16,20 @@ BS Computer Science
 
 - 📍 Quezon City, Metro Manila
 
+<hr>
+
+<h2>Experience 💼</h2>
+
+[<ins>**Web Development Intern**</ins>](https://drive.google.com/file/d/1UbdY30b0ZTFzKHLXfu-2sr8D6K2PZIWx/view?usp=sharing)
 <br>
+<b>- Highly Succeed Inc.</b>
+<br>
+<b>- 300 Hours Internship</b>
+<br>
+<b>- September 30, 2024 - November 22, 2024</b>
+<br>
+<hr>
+
 <h2>Certification 📜</h2>
 
 [<ins>**Introduction to Figma**</ins>](https://simpli-web.app.link/e/2FYqbWnZkNb)
