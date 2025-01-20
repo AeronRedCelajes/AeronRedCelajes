@@ -269,7 +269,7 @@ BS Computer Science
 
 <h3>App Development ⚙️</h3>
 
-[<ins>**Computer User Health Monitoring YOLOv8**</ins>](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
+[<ins>**Computer User Health Monitoring Using YOLOv8**</ins>](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
 <br>
 <b>- AI Model</b> 
 <br>
