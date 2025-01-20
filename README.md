@@ -269,9 +269,15 @@ BS Computer Science
 
 <h3>App Development ⚙️</h3>
 
-[<ins>**EaseExamGen**</ins>](http://easeexamchatbot.pythonanywhere.com)
+[<ins>**Computer User Health Monitoring YOLOv8**</ins>](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
 <br>
-[<ins>**EaseExamDetails**</ins>](https://github.com/AeronRedCelajes/EaseExamGen)
+<b>- AI Model</b> 
+<br>
+<b>- January 2025<b/>
+<br>
+<br>
+
+[<ins>**EaseExam**</ins>](https://github.com/AeronRedCelajes/EaseExamGen)
 <br>
 <b>- Application</b> 
 <br>
