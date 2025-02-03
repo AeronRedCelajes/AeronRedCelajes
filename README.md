@@ -32,6 +32,14 @@ BS Computer Science
 
 <h2>Certification 📜</h2>
 
+[<ins>**Scrum Foundation Professional Certification - SFPC™**</ins>](https://www.credly.com/badges/46b27b5c-c5c2-4d52-b349-19567b5d8e2c/linked_in_profile)
+<br>
+<b>- Certiprof</b>
+<br>
+<b>- December 06, 2024</b>
+<br>
+<hr>
+
 [<ins>**Introduction to Figma**</ins>](https://simpli-web.app.link/e/2FYqbWnZkNb)
 <br>
 <b>- Simplilearn</b>
