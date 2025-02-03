@@ -20,7 +20,7 @@ BS Computer Science
 
 <h2>Experience 💼</h2>
 
-[<ins>**Web Development Intern**</ins>](https://drive.google.com/file/d/1UbdY30b0ZTFzKHLXfu-2sr8D6K2PZIWx/view?usp=sharing)
+[<ins>**Web Developer / Graphics Designer Internship**</ins>](https://drive.google.com/file/d/1UbdY30b0ZTFzKHLXfu-2sr8D6K2PZIWx/view?usp=sharing)
 <br>
 <b>- Highly Succeed Inc.</b>
 <br>
