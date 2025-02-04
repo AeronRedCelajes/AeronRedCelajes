@@ -1,3 +1,5 @@
+![Program your life to be better](https://github.com/user-attachments/assets/11858ae0-8637-43bc-aa75-086e8604601d)
+
 <h2>Hi 👋, I'm Aeron Red R. Celajes</h2>
 <p>A Computer Science student from <strong>New Era University</strong> passionate about web development, graphic design, and data analysis.</p>
 
@@ -111,7 +113,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 ---
 
-## 🛒 E-commerce Project
+## 🛒 E-commerce Website
 
 ### [EZPC](http://ez-peasy.free.nf)  
 *May 2024 - May 2024*
