@@ -26,6 +26,7 @@
 300 Hours Internship</p>
 <ul>
     <li>Assistant Team Leader in the Web Development Department.</li>
+    <li>Assisted in the Graphics Design Department as part of my internship role.</li>
     <li>Assisted in managing the Web Development team and project workflows.</li>
     <li>Developed and maintained website applications as a Front-End Developer.</li>
     <li>Assisted in the Graphics Design Department, contributing to visual asset creation.</li>
@@ -136,7 +137,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
   - Generates quiz/exam questions using the OpenAI API
   - Real-time question generation
   - User-friendly interface for interaction
-- **Technologies:** OpenAI API, JavaScript
+- **Technologies:** OpenAI API, JavaScript, Python
 
 [🔗 View Live Demo](https://easeexamchatbot.pythonanywhere.com) | [🔗 View on GitHub](https://github.com/AeronRedCelajes/EaseExamGen)
 
@@ -158,7 +159,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 ---
 
-<h3>Power BI Projects</h3>
+<h3>Power BI Projects 📈</h3>
 <h3>Power BI Report - Snack Report Using DAX</h3>
 
 ![prof elec 4](https://github.com/user-attachments/assets/827c3441-f86f-4aca-aaf7-768cdb573df6)
@@ -186,6 +187,19 @@ Welcome to my collection of app development projects! Below you'll find a list o
   </a>
 </p>
 
+---
+
+<h3>Tableau Projects 📊</h3>
+<h3>Tableau Report - Awesome Chocolate Dashboard Report</h3>
+
+![chocolate report](https://github.com/user-attachments/assets/dd55cd15-c67e-4706-b3ea-86ed308fe217)
+<p align="center">
+  <a href="https://aeronredcelajes.github.io/TableauDashboarding/">
+    <ins><strong>Awesome Chocolate Dashboard Report</strong></ins>
+  </a>
+</p>
+
+[🔗 View on GitHub](https://github.com/AeronRedCelajes/TableauDashboarding)
 <hr>
 
 <h2>Design Patterns 🎨</h2>
@@ -205,7 +219,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 <hr>
 
-## Skills 🔧
+<h2>Skills 🔧</h2>
 
 | **Category**                 | **Skills**                                           |
 |------------------------------|------------------------------------------------------|
