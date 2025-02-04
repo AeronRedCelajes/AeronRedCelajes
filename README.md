@@ -1,4 +1,4 @@
-![Program your life to be better](https://github.com/user-attachments/assets/11858ae0-8637-43bc-aa75-086e8604601d)
+![header 2](https://github.com/user-attachments/assets/34f1f414-1a86-4b92-9522-104691c4f99a)
 
 <h2>Hi 👋, I'm Aeron Red R. Celajes</h2>
 <p>A Computer Science student from <strong>New Era University</strong> passionate about web development, graphic design, and data analysis.</p>
