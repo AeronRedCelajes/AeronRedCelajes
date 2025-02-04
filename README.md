@@ -22,7 +22,7 @@
 <h2>Experience 💼</h2>
 <h3>Web Developer / Graphic Designer Intern</h3>
 <p><strong>Highly Succeed Inc.</strong><br>
-<strong><i>September 2024 - November 2024</i>i</strong><br>
+<strong><i>September 2024 - November 2024</i></strong><br>
 300 Hours Internship</p>
 <ul>
     <li>Assistant Team Leader in the Web Development Department.</li>
