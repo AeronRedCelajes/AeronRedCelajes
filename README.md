@@ -1,355 +1,223 @@
-<h1 align="center">My Portfolio 💼</h1>
-<h2 align="center">Hi 👋, I'm Aeron Red R. Celajes</h2>
-<h3 align="center">A computer science student from New Era University. 🏫</h3>
+<h2>Hi 👋, I'm Aeron Red R. Celajes</h2>
+<p>A Computer Science student from <strong>New Era University</strong> passionate about web development, graphic design, and data analysis.</p>
 
-## Education 📓
-**New Era University**
-<br>
-BS Computer Science
-2021 - Present
+<hr>
 
-## Contact Me 📞
+<h2>Education 📚</h2>
+<p><strong>New Era University</strong><br>
+<em>Bachelor of Science in Computer Science</em><br>
+2021 - Present</p>
 
-- 📱 09559352362
+<hr>
 
-- 📧 aeronredcelajes@gmail.com
-
-- 📍 Quezon City, Metro Manila
+<h2>Contact Me 📞</h2>
+<ul>
+    <li><strong>Phone:</strong> 09559352362</li>
+    <li><strong>Email:</strong> aeronredcelajes@gmail.com</li>
+    <li><strong>Location:</strong> Quezon City, Metro Manila</li>
+</ul>
 
 <hr>
 
 <h2>Experience 💼</h2>
-
-[<ins>**Web Developer / Graphic Designer Internship**</ins>](https://drive.google.com/file/d/1UbdY30b0ZTFzKHLXfu-2sr8D6K2PZIWx/view?usp=sharing)
-<br>
-<b>- Highly Succeed Inc.</b>
-<br>
-<b>- 300 Hours Internship</b>
-<br>
-<b>- September 30, 2024 - November 22, 2024</b>
-<br>
-<hr>
-
-<h2>Certification 📜</h2>
-
-[<ins>**Scrum Foundation Professional Certification - SFPC™**</ins>](https://www.credly.com/badges/46b27b5c-c5c2-4d52-b349-19567b5d8e2c/linked_in_profile)
-<br>
-<b>- Certiprof</b>
-<br>
-<b>- December 06, 2024</b>
-<br>
-<hr>
-
-[<ins>**Introduction to Figma**</ins>](https://simpli-web.app.link/e/2FYqbWnZkNb)
-<br>
-<b>- Simplilearn</b>
-<br>
-<b>- October 01, 2024</b>
-<br>
-<hr>
-
-[<ins>**Career Essentials in Generative AI by Microsoft and LinkedIn**</ins>](https://www.linkedin.com/learning/certificates/ad2b1c32ab36d40641b702b94782984ee7310d2f007c8f3857e40be9be5bee5e?trk=share_certificate)
-<br>
-<b>- Microsoft and LinkedIn</b>
-<br>
-<b>- September 29, 2024</b>
-<br>
-<hr>
-
-[<ins>**Project Management**</ins>](https://www.mygreatlearning.com/certificate/UVSTKSPO)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 29, 2024</b>
-<br>
-<hr>
-
-[<ins>**Introduction to Generative AI**</ins>](https://www.cloudskillsboost.google/public_profiles/9b90332a-7b78-4931-a168-caa5a25cb5c2/badges/11761675)
-<br>
-<b>- Google Cloud Skills Boost</b>
-<br>
-<b>- September 29, 2024</b>
-<br>
-<hr>
-
-[<ins>**Responsive Web Design**</ins>](https://www.freecodecamp.org/certification/AeroRed/responsive-web-design)
-<br>
-<b>- freeCodeCamp</b>
-<br>
-<b>- September 29, 2024</b>
-<br>
-<hr>
-
-[<ins>**Software Development Lifecycle Fundamentals**</ins>](https://www.mygreatlearning.com/certificate/QGJBEIQI)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 29, 2024</b>
-<br>
-<hr>
-
-[<ins>**PHP for Beginners**</ins>](https://www.mygreatlearning.com/certificate/INXZOHDD)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 28, 2024</b>
-<br>
-<hr>
-
-[<ins>**Introduction to JavaScript**</ins>](https://www.mygreatlearning.com/certificate/KPWWCVHA)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 28, 2024</b>
-<br>
-<hr>
-
-[<ins>**UI/UX for Beginners**</ins>](https://www.mygreatlearning.com/certificate/ESCDWWPS)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 27, 2024</b>
-<br>
-<hr>
-
-[<ins>**Introduction to Neural Network**</ins>](https://www.mygreatlearning.com/certificate/EITTSTPV)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 27, 2024</b>
-<br>
-<hr>
-
-[<ins>**Front End Development - CSS**</ins>](https://www.mygreatlearning.com/certificate/FZVHYDCA)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 27, 2024</b>
-<br>
-<hr>
-
-[<ins>**Front End Development - HTML**</ins>](https://www.mygreatlearning.com/certificate/VPALWXWC)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 27, 2024</b>
-<br>
-<hr>
-
-[<ins>**Python for Data Science**</ins>](https://www.mygreatlearning.com/certificate/TQGAMASI)
-<br>
-<b>- Great Learning</b>
-<br>
-<b>- September 07, 2024</b>
-<br>
-<hr>
-
-[<ins>**AI Fundamentals with IBM Skills Build**</ins>](https://drive.google.com/file/d/1zi5v-EjZWa_qyGeQpc4wNa-nWNn5KD8m/view?usp=sharing)
-<br>
-<b>- CISCO</b>
-<br>
-<b>- July 13, 2024</b>
-<br>
-<hr>
-
-[<ins>**PWNEU CTF**</ins>](https://drive.google.com/file/d/1oN7fT5SDEjH6qtPgcM-cxqQoS1Mu_kX5/view?usp=sharing)
-<br>
-<b>- NEU CICS</b>
-<br>
-<b>- May 15, 2024</b>
-<br>
-<hr>
-
-[<ins>**Intro To Programming**</ins>](https://drive.google.com/file/d/127fjA-uKCApHkToV4ZNQ642srzgo5KrB/view?usp=sharing)
-<br>
-<b>- Kaggle</b>
-<br>
-<b>- November 09, 2023</b>
-<br>
-<hr>
-
-[<ins>**Introduction to Data Science**</ins>](https://drive.google.com/file/d/1d-jE96c0It1LGV0uRDSdzbFf_cPjs8u9/view?usp=sharing)
-<br>
-<b>- CISCO</b>
-<br>
-<b>- October 15, 2023</b>
-<br>
-<hr>
-
-[<ins>**Data Analytics Essentials**</ins>](https://drive.google.com/file/d/1BL_0-0sZOCQend5WVU8NcziYWM-eMU5t/view?usp=sharing)
-<br>
-<b>- CISCO</b>
-<br>
-<b>- October 05, 2023</b>
-<br>
-<hr>
-
-[<ins>**Oracle Cloud Data Management 2022 Foundations Certified Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8FD3D34EF2E4BAE638028D5839CF292AB0E7FFD07FDF19BE5B2BC249F827BBD)
-<br>
-<b>- Oracle Corporation</b>
-<br>
-<b>- November 23, 2022</b>
-<br>
-<hr>
-
-[<ins>**Oracle Cloud Infrastructure 2022 Certified Foundations Associate**</ins>](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92F02056C20DC48A686FBCE410D7C568D2B47CBF7ADCFADCEFA1651F0B0CA3BB)
-<br>
-<b>- Oracle Corporation</b> 
-<br>
-<b>- November 16, 2022<b/>
-<br>
-<hr>
-
-[<ins>**SQL and Relational Databases 101**</ins>](https://courses.cognitiveclass.ai/certificates/e2c243f430994fe9914404bb6279d18d)
-<br>
-<b>- Cognitive Class</b>
-<br>
-<b>- October 30, 2022</b>
-<br>
-<hr>
-
-[<ins>**SPEECH ART CONTEST 2022**</ins>](https://drive.google.com/file/d/1_Pnbw035c794JBq_vKdsOXk0IZl11jFn/view?usp=sharing)
-<br>
-<b>- New Era University</b>
-<br>
-<b>- April 01, 2022</b>
-
-<br>
-<h2>Tech Achievement 🛠️</h2>
-
-<h3>PowerBi Projects 📊</h3>
-
-[<ins>**Prof Elec 4 Course Report**</ins>](https://app.powerbi.com/view?r=eyJrIjoiZDE0ZTVmMjEtODU3YS00MGI3LTkwNDMtNmJiYTczODVhYzljIiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D)
-<br>
-<b>- PowerBi</b> 
-<br>
-<b>- July 11, 2024<b/>
-<br>
-<hr>
-
-[<ins>**Snack Report Using DAX**</ins>](https://app.powerbi.com/view?r=eyJrIjoiMmUxMDJhZjktYTVmZi00OWI0LWJkM2UtZTU0ODg4MGE4ZjVkIiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D)
-<br>
-<b>- PowerBi</b> 
-<br>
-<b>- July 08, 2024<b/>
-<br>
-<hr>
-
-[<ins>**Soda Report 2022**</ins>](https://app.powerbi.com/view?r=eyJrIjoiZmI1MTQxMzQtYTRmOC00MzUyLThiMzUtYmFhNGI2NWM1M2I1IiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D)
-<br>
-<b>- PowerBi</b> 
-<br>
-<b>- July 01, 2024<b/>
-<br>
-<br>
-
-<h3>SoftEng Design Patterns 👨🏻‍💻</h3>
-
-[<ins>**Builder Pattern**</ins>](https://github.com/AeronRedCelajes/builderPattern)
-<br>
-<b>- Design Pattern</b> 
-<br>
-<hr>
-
-[<ins>**Decorator Pattern**</ins>](https://github.com/AeronRedCelajes/decoratorPattern)
-<br>
-<b>- Design Pattern</b> 
-<br>
-<hr>
-
-[<ins>**Observer Pattern**</ins>](https://github.com/AeronRedCelajes/observerPattern)
-<br>
-<b>- Design Pattern</b> 
-<br>
-<hr>
-
-[<ins>**Singleton Pattern**</ins>](https://github.com/AeronRedCelajes/singletonPattern)
-<br>
-<b>- Design Pattern</b> 
-<br>
-<hr>
-
-[<ins>**Visitor Pattern**</ins>](https://github.com/AeronRedCelajes/visitorPattern2)
-<br>
-<b>- Design Pattern</b> 
-<br>
-<br>
-
-<h3>App Development ⚙️</h3>
-
-[<ins>**Computer User Health Monitoring**</ins>](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
-<br>
-<b>- AI Model</b> 
-<br>
-<b>- January 2025<b/>
-<br>
-<br>
-
-[<ins>**EaseExam**</ins>](https://github.com/AeronRedCelajes/EaseExamGen)
-<br>
-<b>- Application</b> 
-<br>
-<b>- May 2024<b/>
-<br>
-<br>
-
-[<ins>**EZPC**</ins>](http://ez-peasy.free.nf)
-<br>
-<b>- E-commerce</b> 
-<br>
-<b>- May 2024<b/>
-<br>
-
-[<ins>**Linked List GUI Project**</ins>](https://github.com/AeronRedCelajes/GUI_LinkedList)
-<br>
-<b>- Application</b> 
-<br>
-<b>- May 2022<b/>
-<br>
-<br>
-
-<h2>Skill Set 💡</h2>
-
-<h3>Data Visualization Tools 📈</h3>
+<h3>Web Developer / Graphic Designer Intern</h3>
+<p><strong>Highly Succeed Inc.</strong><br>
+<strong><i>September 2024 - November 2024</i>i</strong><br>
+300 Hours Internship</p>
 <ul>
-  <li>PowerBI Desktop</li>
-  <li>Tableau Public</li>
+    <li>Assistant Team Leader in the Web Development Department.</li>
+    <li>Assisted in managing the Web Development team and project workflows.</li>
+    <li>Developed and maintained website applications as a Front-End Developer.</li>
+    <li>Assisted in the Graphics Design Department, contributing to visual asset creation.</li>
+    <li>Created graphics and visual assets for the company's campaigns and branding.</li>
 </ul>
 
 <hr>
 
-<h3>Programming Languages 🖥️</h3>
+<h2>Certifications 📚</h2>
+
+| **Certificate Title**                                                           | **Issued By**           | **Date**            |
+|---------------------------------------------------------------------------------|--------------------------|---------------------|
+| Scrum Foundation Professional Certification - SFPC™                              | Certiprof               | December 2024       |
+| Introduction to Figma                                                           | Simplilearn             | October 2024        |
+| Career Essentials in Generative AI by Microsoft and LinkedIn                     | Microsoft & LinkedIn     | September 2024      |
+| Ethics in the Age of Generative AI                                               | LinkedIn                | September 2024      |
+| Front End Development - CSS                                                     | Great Learning          | September 2024      |
+| Front End Development - HTML                                                    | Great Learning          | September 2024      |
+| Generative AI: The Evolution of Thoughtful Online Search                         | LinkedIn                | September 2024      |
+| Introduction to Artificial Intelligence                                         | LinkedIn                | September 2024      |
+| Introduction to Generative AI                                                   | Google Cloud Skills Boost| September 2024      |
+| Introduction to JavaScript                                                      | Great Learning          | September 2024      |
+| Introduction to Neural Network                                                  | Great Learning          | September 2024      |
+| Learning Microsoft 365 Copilot                                                  | LinkedIn                | September 2024      |
+| PHP for Beginners                                                                | Great Learning          | September 2024      |
+| Project Management                                                              | Great Learning          | September 2024      |
+| Python for Data Science                                                         | Great Learning          | September 2024      |
+| Responsive Web Design                                                           | freeCodeCamp            | September 2024      |
+| Software Development Lifecycle Fundamentals                                     | Great Learning          | September 2024      |
+| Streamlining Your Work with Microsoft Copilot                                    | LinkedIn                | September 2024      |
+| UI/UX for Beginners                                                             | Great Learning          | September 2024      |
+| What Is Generative AI?                                                          | LinkedIn                | September 2024      |
+| Artificial Intelligence Fundamentals                                            | Cisco                   | September 2024      |
+| Basic Training on Cybersecurity and Capture-The-Flag Competition                 | New Era University      | May 2024            |
+| Intro to Programming                                                            | Kaggle                  | November 2024       |
+| Data Analytics Essentials                                                       | Cisco                   | October 2023        |
+| Introduction to Data Science                                                    | Cisco                   | October 2023        |
+| SQL and Relational Databases 101                                                | Cognitive Class         | October 2022        |
+
+<hr>
+
+<h2>Projects 🔄</h2>
+
+<h3>App Development Projects ⚙️</h3>
+Welcome to my collection of app development projects! Below you'll find a list of exciting projects I've worked on, showcasing my skills in various domains like machine learning, web development, e-commerce, and GUI design.
+
+## 🚀 Table of Contents
+- [Thesis Project](#thesis-project)
+- [AI Model Project](#ai-model-project)
+- [E-commerce Project](#e-commerce-project)
+- [Knowledge Management Project](#knowledge-management-project)
+- [GUI Project](#gui-project)
+
+---
+
+## 🎓 Thesis Project
+
+### **HANORI (Ongoing)**  
+*August 2024 to Present*
+
+- **Description:** An online coding assessment platform developed for New Era University, integrating machine learning for source code analysis.
+- **Key Features:** 
+   - Machine Learning integration
+   - Code assessment & grading
+
+(🚧 *Link Coming Soon!*)  
+
+---
+
+## 🤖 AI Model Project
+
+### [Computer User Health Monitoring](https://aeronredcelajes.github.io/Computer-User-Health-Monitoring-using-YOLOv8/)  
+*December 2024 - January 2025*
+
+- **Description:** This project focuses on monitoring computer users' health by posture, drowsiness, and eye gaze using YOLOv8.
+- **Key Features:**
+   - Real-time posture, drowsiness, and eye gaze monitoring
+   - Integration with YOLOv8 for improved accuracy
+- **Technologies:** Python, YOLOv8, Machine Learning, Computer Vision
+
+[🔗 View Live Demo](https://aeronredcelajes.github.io/Computer-User-Health-Monitoring-using-YOLOv8/) | [🔗 View on GitHub](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
+
+---
+
+## 🛒 E-commerce Project
+
+### [EZPC](http://ez-peasy.free.nf)  
+*May 2024 - May 2024*
+
+- **Description:** A dynamic e-commerce website that includes CRUD operations for products and user management, developed using HTML, CSS, JavaScript, PHP, and SQL.
+- **Key Features:**
+  - Product catalog with CRUD operations
+  - User authentication
+  - Dynamic database for product management
+- **Technologies:** HTML, CSS, JavaScript, PHP, SQL
+
+[🔗 View Live Demo](http://ez-peasy.free.nf) | [🔗 View on GitHub](#) (🚧 *Link Coming Soon!*) 
+
+---
+
+## 📚 Knowledge Management Project
+
+### [EaseExam](https://easeexamchatbot.pythonanywhere.com)  
+*April 2024 - May 2024*
+
+- **Description:** A quiz/exam question generator that uses the OpenAI API to generate questions and test users' knowledge.
+- **Key Features:**
+  - Generates quiz/exam questions using the OpenAI API
+  - Real-time question generation
+  - User-friendly interface for interaction
+- **Technologies:** OpenAI API, JavaScript
+
+[🔗 View Live Demo](https://easeexamchatbot.pythonanywhere.com) | [🔗 View on GitHub](https://github.com/AeronRedCelajes/EaseExamGen)
+
+---
+
+## 🖥️ GUI Project
+
+### [Linked List GUI Project](https://github.com/AeronRedCelajes/GUI_LinkedList)  
+*March 2022 - May 2022*
+
+- **Description:** Java-based linked list implementation with a graphical user interface (GUI).
+- **Key Features:**
+  - GUI-based interaction for linked list operations
+  - Allows adding, removing, and displaying nodes
+  - Interactive list manipulation via buttons and text fields
+- **Technologies:** Java, GUI
+
+[🔗 View on GitHub](https://github.com/AeronRedCelajes/GUI_LinkedList)
+
+---
+
+<h3>Power BI Projects</h3>
+<h3>Power BI Report - Snack Report Using DAX</h3>
+
+![prof elec 4](https://github.com/user-attachments/assets/827c3441-f86f-4aca-aaf7-768cdb573df6)
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZDE0ZTVmMjEtODU3YS00MGI3LTkwNDMtNmJiYTczODVhYzljIiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D">
+    <ins><strong>Prof Elec 4 Course Report</strong></ins>
+  </a>
+</p>
+
+<h3>Power BI Report - Snack Report Using DAX</h3>
+
+![snack report](https://github.com/user-attachments/assets/830065ba-1902-462a-a003-779213eb8b0e)
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMmUxMDJhZjktYTVmZi00OWI0LWJkM2UtZTU0ODg4MGE4ZjVkIiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D">
+    <ins><strong>Snack Report Using DAX</strong></ins>
+  </a>
+</p>
+
+<h3>Power BI Report - Snack Report Using DAX</h3>
+
+![soda report](https://github.com/user-attachments/assets/9df3a35b-edef-458e-a521-5ead763d1b47)
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZmI1MTQxMzQtYTRmOC00MzUyLThiMzUtYmFhNGI2NWM1M2I1IiwidCI6ImM5NTVhODEwLWZiMzAtNDEyNS05Y2FlLTJiNjhhYzM1YWFmNCIsImMiOjEwfQ%3D%3D">
+    <ins><strong>Soda Report 2022</strong></ins>
+  </a>
+</p>
+
+<hr>
+
+<h2>Design Patterns 🎨</h2>
 <ul>
-  <li>Java</li>
-  <li>Html/CSS</li>
-  <li>C Sharp</li>
-  <li>Python</li>
-  <li>MySQL</li>
-  <li>PHP</li>
+    <li>Factory Pattern</li>
+    <li>Command Pattern</li>
+    <li>Adapter Pattern</li>
+    <li>Facade Pattern</li>
+    <li>Observer Pattern</li>
+    <li>Singleton Pattern</li>
+    <li>Decorator Pattern</li>
+    <li>Builder Pattern</li>
+    <li>State Pattern</li>
+    <li>Strategy Pattern</li>
+    <li>Visitor Pattern</li>
 </ul>
 
 <hr>
 
-<h3>DBMS 🛢️</h3>
-<ul>
-  <li>DB2</li>
-</ul>
+## Skills 🔧
+
+| **Category**                 | **Skills**                                           |
+|------------------------------|------------------------------------------------------|
+| **Programming & Development** | Java, HTML/CSS, PHP, Python, React, Laravel          |
+| **Databases & Tools**         | MySQL, DB2, Tableau Public, PowerBI Desktop          |
+| **Design & Media Tools**      | Power BI, Excel                                     |
+| **Development Environments**  | VS Code, Eclipse, IntelliJ, Laragon, XAMPP, Postman |
+| **Networking Tools**          | Cisco Packet Tracer                                 |
+| **Machine Learning**          | Jupyter Notebook, Google Colab, Computer Vision     |
+| **Soft Skills**               | Adaptability, Perseverance, Teamwork, Time Management|
+
 
 <hr>
 
-<h3>Dev Tools 🔧</h3>
-<ul>
-  <li>Visual Studio Code</li>
-  <li>Unity</li>
-  <li>Eclipse</li>
-  <li>JasperSoft Studio</li>
-  <li>IntelliJ Idea</li>
-  <li>Cisco Packet Tracer</li>
-  <li>Aseprite</li>
-  <li>LucidChart</li>
-  <li>Adobe Photoshop</li>
-  <li>Adobe Premiere Pro</li>
-  <li>Figma</li>
-  <li>Google Colab</li>
-  <li>Laragon</li>
-</ul>
+<h3>This portfolio highlights my journey and expertise. For collaborations or project inquiries, feel free to contact me!</h3>
