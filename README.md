@@ -5,6 +5,14 @@
 
 <hr>
 
+## 🌐 Portfolio Website
+
+(🚧 *Link Coming Soon!*)  
+
+<!-- [Visit My Portfolio Website](https://your-portfolio-link.com) -->
+
+---
+
 <h2>Education 📚</h2>
 <p><strong>New Era University</strong><br>
 <em>Bachelor of Science in Computer Science</em><br>
