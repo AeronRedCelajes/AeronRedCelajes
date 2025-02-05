@@ -109,7 +109,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
    - Integration with YOLOv8 for improved accuracy
 - **Technologies:** Python, YOLOv8, Machine Learning, Computer Vision
 
-[🔗 View Live Demo](https://aeronredcelajes.github.io/Computer-User-Health-Monitoring-using-YOLOv8/) | [🔗 View on GitHub](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
+[🔗 View Live Demo](https://aeronredcelajes.github.io/Computer-User-Health-Monitoring-using-YOLOv8/) | [🔗 View Repository](https://github.com/AeronRedCelajes/Computer-User-Health-Monitoring-using-YOLOv8)
 
 ---
 
@@ -125,7 +125,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
   - Dynamic database for product management
 - **Technologies:** HTML, CSS, JavaScript, PHP, SQL
 
-[🔗 View Live Demo](http://ez-peasy.free.nf) | [🔗 View on GitHub](#) (🚧 *Link Coming Soon!*) 
+[🔗 View Live Demo](http://ez-peasy.free.nf) | [🔗 View Repository](#) (🚧 *Link Coming Soon!*) 
 
 ---
 
@@ -141,7 +141,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
   - User-friendly interface for interaction
 - **Technologies:** OpenAI API, JavaScript, Python
 
-[🔗 View Live Demo](https://easeexamchatbot.pythonanywhere.com) | [🔗 View on GitHub](https://github.com/AeronRedCelajes/EaseExamGen)
+[🔗 View Live Demo](https://easeexamchatbot.pythonanywhere.com) | [🔗 View Repository](https://github.com/AeronRedCelajes/EaseExamGen)
 
 ---
 
@@ -157,7 +157,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
   - Interactive list manipulation via buttons and text fields
 - **Technologies:** Java, GUI
 
-[🔗 View on GitHub](https://github.com/AeronRedCelajes/GUI_LinkedList)
+[🔗 View Repository](https://github.com/AeronRedCelajes/GUI_LinkedList)
 
 ---
 
@@ -201,23 +201,24 @@ Welcome to my collection of app development projects! Below you'll find a list o
   </a>
 </p>
 
-[🔗 View on GitHub](https://github.com/AeronRedCelajes/TableauDashboarding)
+[🔗 View Repository](https://github.com/AeronRedCelajes/TableauDashboarding)
 <hr>
 
 <h2>Design Patterns 🎨</h2>
 <ul>
-    <li>Factory Pattern</li>
-    <li>Command Pattern</li>
-    <li>Adapter Pattern</li>
-    <li>Facade Pattern</li>
-    <li>Observer Pattern</li>
-    <li>Singleton Pattern</li>
-    <li>Decorator Pattern</li>
-    <li>Builder Pattern</li>
-    <li>State Pattern</li>
-    <li>Strategy Pattern</li>
-    <li>Visitor Pattern</li>
+    <li>Factory Pattern - <a href="https://github.com/AeronRedCelajes/factoryPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Command Pattern - <a href="https://github.com/AeronRedCelajes/commandPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Adapter Pattern - <a href="https://github.com/AeronRedCelajes/adapterPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Facade Pattern - <a href="https://github.com/AeronRedCelajes/facadePattern" target="_blank">🔗 View Repository</a></li>
+    <li>Observer Pattern - <a href="https://github.com/AeronRedCelajes/observerPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Singleton Pattern - <a href="https://github.com/AeronRedCelajes/singletonPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Decorator Pattern - <a href="https://github.com/AeronRedCelajes/decoratorPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Builder Pattern - <a href="https://github.com/AeronRedCelajes/builderPattern" target="_blank">🔗 View Repository</a></li>
+    <li>State Pattern - <a href="https://github.com/AeronRedCelajes/statePattern" target="_blank">🔗 View Repository</a></li>
+    <li>Strategy Pattern - <a href="https://github.com/AeronRedCelajes/strategyPattern" target="_blank">🔗 View Repository</a></li>
+    <li>Visitor Pattern - <a href="https://github.com/AeronRedCelajes/visitorPattern" target="_blank">🔗 View Repository</a> | <a href="https://github.com/AeronRedCelajes/visitorPattern2" target="_blank">🔗 View Repository</a></li> 
 </ul>
+
 
 <hr>
 
