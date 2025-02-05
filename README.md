@@ -199,9 +199,11 @@ Welcome to my collection of app development projects! Below you'll find a list o
   <a href="https://aeronredcelajes.github.io/TableauDashboarding/">
     <ins><strong>Awesome Chocolate Dashboard Report</strong></ins>
   </a>
+<br>
+  <a href="https://github.com/AeronRedCelajes/TableauDashboarding">
+    <ins><strong>🔗 View Repository</strong></ins>
+  </a>
 </p>
-
-[🔗 View Repository](https://github.com/AeronRedCelajes/TableauDashboarding)
 <hr>
 
 <h2>Design Patterns 🎨</h2>
