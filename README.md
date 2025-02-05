@@ -141,7 +141,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
   - User-friendly interface for interaction
 - **Technologies:** OpenAI API, JavaScript, Python
 
-[🔗 View Live Demo](https://easeexamchatbot.pythonanywhere.com) | [🔗 View Repository](https://github.com/AeronRedCelajes/EaseExamGen)
+[🔗 View Live Demo](https://easeexamchatbot.pythonanywhere.com) | [🔗 View Repository](https://github.com/AeronRedCelajes/EaseExam)
 
 ---
 
