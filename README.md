@@ -7,10 +7,10 @@
 
 <h2>Github Stats 📊</h2>
 
-<a href="https://github.com/AeronRedCelajes/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=AeronRedCelajes">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AeronRedCelajes&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/AeronRedCelajes/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AeronRedCelajes">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AeronRedCelajes&layout=compact&langs_count=8&theme=radical" />
 </a>
 
