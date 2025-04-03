@@ -103,7 +103,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 ## 🎓 Thesis Project
 
-### **HANORI (Ongoing)**  
+### **NEUDev (Ongoing)**  
 *August 2024 to Present*
 
 - **Description:** An online coding assessment platform developed for New Era University, integrating machine learning for source code analysis.
