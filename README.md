@@ -247,7 +247,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 |------------------------------|------------------------------------------------------|
 | **Programming & Development** | Java, HTML/CSS, PHP, Python, React, Laravel          |
 | **Databases & Tools**         | MySQL, DB2, Tableau Public, PowerBI Desktop          |
-| **Design & Media Tools**      | Power BI, Excel                                     |
+| **Design & Media Tools**      | Adobe Photoshop, Adobe Premiere                      |
 | **Development Environments**  | VS Code, Eclipse, IntelliJ, Laragon, XAMPP, Postman |
 | **Networking Tools**          | Cisco Packet Tracer                                 |
 | **Machine Learning**          | Jupyter Notebook, Google Colab, Computer Vision     |
