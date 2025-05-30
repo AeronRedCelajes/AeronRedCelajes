@@ -103,12 +103,12 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 ## 🎓 Thesis Project
 
-### **NEUDev (Ongoing)**  
-*August 2024 to Present*
+### **NEUDev**  
+*August 2024 to May 2025*
 
-- **Description:** An online coding assessment platform developed for New Era University, integrating machine learning for source code analysis.
+- **Description:** An online coding assessment platform developed for New Era University, integrating AI for source code analysis..
 - **Key Features:** 
-   - Machine Learning integration
+   - AI integration
    - Code assessment & grading
 
 (🚧 *Link Coming Soon!*)  
