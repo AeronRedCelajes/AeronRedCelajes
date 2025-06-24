@@ -25,7 +25,9 @@
 <h2>Education 📚</h2>
 <p><strong>New Era University</strong><br>
 <em>Bachelor of Science in Computer Science</em><br>
-2021 - Present</p>
+August 2021 - July 2025<br><br>
+<b>GWA: </b> 1.22 <br>
+Magna Cum Laude</p>
 
 <hr>
 
