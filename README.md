@@ -60,6 +60,21 @@ Magna Cum Laude</p>
 
 | **Certificate Title**                                                           | **Issued By**           | **Date**            |
 |---------------------------------------------------------------------------------|--------------------------|---------------------|
+| Postman API Fundamentals Student Expert                                         | Postman                      | July 2025           |
+| SQL - Backend                                                                   | NEU                          | March 2025          |
+| Roles in Cybersecurity                                                          | NEU                          | March 2025          |
+| Web Development                                                                 | NEU                          | March 2025          |
+| Life After Graduation                                                           | NEU                          | March 2025          |
+| Business Communication                                                          | NEU                          | March 2025          |
+| How to Build a Creative Portfolio                                               | NEU                          | March 2025          |
+| Data Driven Facilities Management: The Future of Smart Spaces                  | NEU                          | March 2025          |
+| Agile Testing in Action - A Beginner's Guide for Future Testers                | NEU                          | March 2025          |
+| Challenges and Realities After Graduation                                       | NEU                          | March 2025          |
+| Guide to Fullstack Development - From Zero to Hero                              | NEU                          | March 2025          |
+| The Art of Effective Communication: Becoming a Leader People Trust             | NEU                          | March 2025          |
+| Optimizing AI Potential: Balancing Prompt Engineering                          | NEU                          | March 2025          |
+| Agile Methodology                                                               | NEU                          | March 2025          |
+| LLMs Demystified: How Machines Became Talkative                                 | NEU                          | March 2025          |
 | Scrum Foundation Professional Certification - SFPC™                              | Certiprof               | December 2024       |
 | Introduction to Figma                                                           | Simplilearn             | October 2024        |
 | Career Essentials in Generative AI by Microsoft and LinkedIn                     | Microsoft & LinkedIn     | September 2024      |
