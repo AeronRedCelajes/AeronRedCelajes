@@ -128,7 +128,8 @@ Welcome to my collection of app development projects! Below you'll find a list o
    - AI integration
    - Code assessment & grading
 
-(🚧 *Link Coming Soon!*)  
+[🔗 View Repository](https://github.com/AeronRedCelajes/NEUDev_FE.git)
+
 
 ---
 
@@ -149,7 +150,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 ## 🛒 E-commerce Website
 
-### [EZPC](http://ez-peasy.free.nf)  
+### **EZPC**  
 *May 2024 - May 2024*
 
 - **Description:** A dynamic e-commerce website that includes CRUD operations for products and user management, developed using HTML, CSS, JavaScript, PHP, and SQL.
@@ -159,7 +160,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
   - Dynamic database for product management
 - **Technologies:** HTML, CSS, JavaScript, PHP, SQL
 
-[🔗 View Live Demo](http://ez-peasy.free.nf) | [🔗 View Repository](#) (🚧 *Link Coming Soon!*) 
+[🔗 View Repository](https://github.com/ramos-jm/EZPC.git)
 
 ---
 
