@@ -41,18 +41,38 @@ Magna Cum Laude</p>
 <hr>
 
 <h2>Experience 💼</h2>
-<h3>Web Developer / Graphic Designer Intern</h3>
-<p><strong>Highly Succeed Inc.</strong><br>
-<strong><i>September 2024 - November 2024</i></strong><br>
-300 Hours Internship</p>
-<ul>
-    <li>Assistant Team Leader in the Web Development Department.</li>
-    <li>Assisted in the Graphics Design Department as part of my internship role.</li>
-    <li>Assisted in managing the Web Development team and project workflows.</li>
-    <li>Developed and maintained website applications as a Front-End Developer.</li>
-    <li>Assisted in the Graphics Design Department, contributing to visual asset creation.</li>
-    <li>Created graphics and visual assets for the company's campaigns and branding.</li>
-</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Company</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Quality Assurance Technician</strong></td>
+      <td>Testronic</td>
+      <td>February 2026 - Present</td>
+    </tr>
+    <tr>
+      <td><strong>Freelance Application Developer</strong></td>
+      <td>CARET Solutions, Inc.</td>
+      <td>November 2025 - January 2026</td>
+    </tr>
+    <tr>
+      <td><strong>Freelance Developer (CLI AI Task Engineer)</strong></td>
+      <td>Parsewave</td>
+      <td>October 2025 - December 2025</td>
+    </tr>
+    <tr>
+      <td><strong>Web Developer / Graphic Designer Intern</strong></td>
+      <td>Highly Succeed Inc.</td>
+      <td>September 2024 - November 2024</td>
+    </tr>
+  </tbody>
+</table>
 
 <hr>
 
@@ -263,6 +283,7 @@ Welcome to my collection of app development projects! Below you'll find a list o
 
 | **Category**                 | **Skills**                                           |
 |------------------------------|------------------------------------------------------|
+| **Quality Assurance & Game Testing** | Software Quality Assurance (SQA), Game Testing, Functional Testing, Bug Tracking & Reporting, Test Case Execution, QA Documentation |
 | **Programming & Development** | Java, HTML/CSS, PHP, Python, React, Laravel          |
 | **Databases & Tools**         | MySQL, DB2, Tableau Public, PowerBI Desktop          |
 | **Design & Media Tools**      | Adobe Photoshop, Adobe Premiere                      |
