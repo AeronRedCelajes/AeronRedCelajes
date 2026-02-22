@@ -1,7 +1,9 @@
 ![Program your life to be better](https://github.com/user-attachments/assets/256754a7-13a3-48b8-8e95-7be01e68744e)
 
 <h2>Hi 👋, I'm Aeron Red R. Celajes</h2>
-<p>A Computer Science graduate from <strong>New Era University</strong> with a passion for web development, graphic design, and computer vision. Eager to apply my skills and grow in dynamic, tech-driven environments.</p>
+<p>
+I am a Computer Science graduate from <strong>New Era University</strong> currently working as a <strong>Quality Assurance Technician at Testronic</strong>. My role focuses on game testing, identifying issues, and helping ensure high-quality player experiences. I am passionate about building a long-term career in the video game industry, supported by my background in software development, AI applications, and system design.
+</p>
 
 <hr>
 
